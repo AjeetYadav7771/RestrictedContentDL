@@ -59,13 +59,9 @@ async def help_command(bot, message: Message):
     )
     await message.reply(help_text)
 
-@bot.on_message(filters.command("dl") & filters.private)
+@bot.on_message(filters.text & filters.private)
 async def download_media(bot, message: Message):
-    if len(message.command) < 2:
-        await message.reply("Provide a post URL after the /dl command.")
-        return
-
-    post_url = message.command[1]
+    post_url = message.text.strip()
 
     try:
         chat_id, message_id = getChatMsgID(post_url)
