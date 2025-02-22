@@ -2,7 +2,7 @@
 # Channel: https://t.me/itsSmartDev
 
 # Pyrogram setup
-API_ID = "123456"  # Replace this API ID with your actual API ID
-API_HASH = "123xxxxxxx"  # Replace this API HASH with your actual API HASH
-BOT_TOKEN = "12345678:xxxxxxxxxxxxxxxxx"  # Replace this BOT_TOKEN
-SESSION_STRING = "xxxxxxxxxxxxxxxxxxxxxxx" # Replace this SESSION STRING with your actual SESSION_STRING
+API_ID = "26228567"  # Replace this API ID with your actual API ID
+API_HASH = "29698598b572c37b35546f20a417a1d6"  # Replace this API HASH with your actual API HASH
+BOT_TOKEN = "7931885899:AAGFvJ2CEUhv8C5D3ehSshp1CswXOY_P8mM"  # Replace this BOT_TOKEN
+SESSION_STRING = "BQGQN1cAaG--XttV2981NAhSLQF7HqLa40h2OspEGSeANWZFsKWsnGEg3j68TO6RjOHkUxoVYIrysHWZIJ_HBVfUwe29VLzcMNRO9zUbnTgu47Wlka3T0ZmHN94tSUvqhn9esxtAccobHsMyWnu0a0KaLNpghueP3WX7J3OwQJjNbRCBuFYiLuVojCxER2J4T6bQG6oO3NnsFJMNyOSXIcNVMwLBtbdzVH5-ewZyaR3BrdeNjL_zlkDrcAaArCX5ra2yZXyYA-ELONiDeoVx9yfTpBqirDL0gg9Zu1D3sDD0DGdb8VZbqG9WeN3fgbvJKLtQ6iu2vmfxAwWVWK7sxAYLH8S8tAAAAAFoN5eWAA" # Replace this SESSION STRING with your actual SESSION_STRING
